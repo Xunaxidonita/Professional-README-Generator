@@ -1,10 +1,10 @@
 # Friendship is Magic
 
-![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
+![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)
 
 ## Description:
 
-This Project was created to get lots of friends through coding.
+An app created to make lots of friends through coding
 
 ## Table of contents: 
 
@@ -19,12 +19,12 @@ This Project was created to get lots of friends through coding.
 
 ## Installation
 
-Let the friendship grow in your heart and keep an open mind.
+Let friendship grow in your heart and keep your mind open
 
 
 ## Usage
 
-Say Hello! and smile. Extend your hand and be nice.
+Say Hi! and smile. Extend your hand and introduce yourself
 
 [![mlp1.png](https://i.postimg.cc/63CJcjLD/mlp1.png)](https://postimg.cc/WFpHb7yn)
 
@@ -36,12 +36,12 @@ Fluttershy, Twilight Sparkle
 
 ## License
 
-[The Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
+[The Unlicense](http://unlicense.org/)
 
 
 ## Features
 
-Rainbows, ponies and clouds
+Rainbows, ponies and fluffy clouds
 
 
 ## Contributing

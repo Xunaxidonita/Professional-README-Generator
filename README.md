@@ -14,8 +14,10 @@ Run these commands from terminal:
 
 ## Usage
 
-![video](https://drive.google.com/file/d/1qpynzl1hrODxtKplxbG5rLAK9pMpiUUp/view)
+[video](https://drive.google.com/file/d/1VJThXFf3FdunZIBqRQyCK_SBMM58wbTh/view)
 
 ## Example
+
+[![readme-md.png](https://i.postimg.cc/x1695XYG/readme-md.png)](https://postimg.cc/JsBw44st)
 
 [README.md](./Develop/README.md)
